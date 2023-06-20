@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "username": "jdpit",
+      "displayName": "jdpit"
+    },
+    {
+      "username": "user2",
+      "displayName": "User Two"
+    },
+    {
+      "username": "user3",
+      "displayName": "User Three"
+    }
+  ]
+}
