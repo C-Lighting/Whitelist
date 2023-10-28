@@ -1,7 +1,5 @@
-{
-    "whitelist": [
-        "jdpit",
-        "username2",
-        "username3"
-    ]
-}
+[
+    "jdpit",
+    "WhitelistedUser2",
+    "WhitelistedUser3"
+]
